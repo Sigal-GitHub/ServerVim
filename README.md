@@ -1,0 +1,2 @@
+# ServerVim
+Server Vimrc
