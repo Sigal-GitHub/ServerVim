@@ -1,2 +1,2 @@
 # ServerVim
-Server Vimrc
+Simple Vimrc
